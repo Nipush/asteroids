@@ -12,7 +12,7 @@ def main():
                 return  # Exit the program
 
         screen.fill((0, 0, 0))  # Fill the screen with black
-        pygame.display.flip() # Update the screen
+        pygame.display.flip()  # Update the screen
 
 
 
